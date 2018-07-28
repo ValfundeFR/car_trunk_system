@@ -11,6 +11,8 @@
 ## FEATURES
 - Functional car trunk
 - Any entities can be carried 
+- Anyone can open the trunk as the vehicle is unlocked
+- Cops can open the trunk when the car's owner has a warrant 
 - Whitelist for entities and blacklist for cars
 - In-game configuration menu
 - FastDL or [workshop content](https://steamcommunity.com/sharedfiles/filedetails/?id=1447771895)
