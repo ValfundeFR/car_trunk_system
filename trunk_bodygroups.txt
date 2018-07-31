@@ -1,0 +1,27 @@
+{
+	"hummer_h1_tc_lw": {
+		"close": 0.0,
+		"id": 9.0,
+		"open": 1.0
+	},
+	"hummer_h1_tc_offroad_lw": {
+		"close": 0.0,
+		"id": 9.0,
+		"open": 1.0
+	},
+	"dodge_ram_1500_outdoorsman_lw": {
+		"close": 0.0,
+		"id": 14.0,
+		"open": 2.0
+	},
+	"nfsmustang": {
+		"close": 0.0,
+		"id": 4.0,
+		"open": 1.0
+	},
+	"chev_suburban_pol_und": {
+		"close": 0.0,
+		"id": 7.0,
+		"open": 1.0
+	}
+}
