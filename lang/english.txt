@@ -39,7 +39,7 @@
 	"config_max_space": "Maximum trunk space",
 	"store_info": "Press \"R\" to store this item in the trunk",
 	"config_add_veh": "Add vehicle to blacklist:",
-	"ent_amount": "Amount:"
-	"trunk_dumped": "The trunk has been dumped."
-	"trunk_cleaned": "The trunk has been cleaned."
+	"ent_amount": "Amount:",
+	"trunk_dumped": "The trunk has been dumped.",
+	"trunk_cleaned": "The trunk has been cleaned.",
 }
