@@ -41,5 +41,5 @@
 	"config_add_veh": "Add vehicle to blacklist:",
 	"ent_amount": "Amount:",
 	"trunk_dumped": "The trunk has been dumped.",
-	"trunk_cleaned": "The trunk has been cleaned."
+	"trunk_cleaned": "The trunk has been cleaned.",
 }
