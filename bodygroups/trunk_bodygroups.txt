@@ -68,5 +68,10 @@
 		"close": 1.0,
 		"id": 2.0,
 		"open": 3.0
+	},
+	"polaris_6x6_lw": {
+		"close": 0.0,
+		"id": 1.0,
+		"open": 1.0
 	}
 }
