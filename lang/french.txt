@@ -41,5 +41,5 @@
 	"config_add_veh": "Ajouter un véhicule à la blackliste :",
 	"ent_amount": "Montant :",
 	"trunk_dumped": "Le coffre a été éjecté.",
-	"trunk_cleaned": "Le coffre a été néttoyé.",
+	"trunk_cleaned": "Le coffre a été néttoyé."
 }
