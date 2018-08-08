@@ -33,7 +33,7 @@
 	"admin_open": "Open trunk",
 	"admin_clean": "Clean trunk",
 	"admin_dump": "Dump trunk",
-	"config_veh_model": "Vehicle model",
+	"config_veh_class": "Vehicle class",
 	"config_main_config": "Main configuration",
 	"trunk_noallowed": "You can't add this in your trunk.",
 	"config_max_space": "Maximum trunk space",
