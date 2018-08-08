@@ -48,5 +48,10 @@
 		"close": 0.0,
 		"id": 7.0,
 		"open": 1.0
+	},
+	"dacia_duster_lw": {
+		"close": 0.0,
+		"id": 6.0,
+		"open": 1.0
 	}
 }
