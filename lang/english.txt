@@ -42,4 +42,4 @@
 	"ent_amount": "Amount:",
 	"trunk_dumped": "The trunk has been dumped.",
 	"trunk_cleaned": "The trunk has been cleaned.",
-}
+},
