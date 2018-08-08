@@ -33,7 +33,7 @@
 	"admin_open": "Ouvrir le coffre",
 	"admin_clean": "Nettoyer le coffre",
 	"admin_dump": "Vider le coffre",
-	"config_veh_model": "Modèle du véhicule",
+	"config_veh_class": "Classe du véhicule",
 	"config_main_config": "Configuration principale",
 	"trunk_noallowed": "Vous ne pouvez pas ajouter ceci dans votre coffre.",
 	"config_max_space": "Place maximum du coffre",
