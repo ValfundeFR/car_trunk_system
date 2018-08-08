@@ -40,4 +40,6 @@
 	"store_info": "Appuyer sur \"R\" pour ranger cet objet dans le coffre",
 	"config_add_veh": "Ajouter un véhicule à la blackliste :",
 	"ent_amount": "Montant :"
+	"trunk_dumped": "Le coffre a été éjecté."
+	"trunk_cleaned": "Le coffre a été néttoyé."
 }
