@@ -1,4 +1,5 @@
 {
+	"car_trunk": "Car trunk:",
 	"config_add": "Add",
 	"config_rmv_veh": "Remove selected vehicle",
 	"config_ent_wl": "Entities whitelist",
@@ -7,7 +8,6 @@
 	"config_ent_class": "Entity class",
 	"config_rmv_ent": "Remove selected entity",
 	"config_open_key": "Opening key",
-	"enable_blur": "Enable blur:",
 	"config_pick_dist": "Pickup's distance",
 	"config_click_keys": "Click on the button to have a list of all available keys",
 	"config_open_dist": "Opening distance",
@@ -19,15 +19,27 @@
 	"config_trunk_config": "Trunk configuration",
 	"config_en_sounds": "Enable sounds",
 	"config_add_ent": "Add entity to whitelist:",
+	"config_weight": "Weight",
+	"config_trunk_space": "Trunk space",
+	"config_space": "Space",
+	"config_cts": "Car trunk system - Configuration menu",
+	"cts_admin_menu": "Car trunk system - Admin menu",
 	"trunk_full": "Your trunk is full.",
 	"config_validate": "Validate",
 	"trunk_locked": "You cannot open the trunk as long as the vehicle is locked.",
+	"trunk_nospace": "You don't have enough space to store this in your trunk.",
 	"close": "Close",
-	"config_veh_model": "Vehicle model",
+	"weight": "Weight:",
+	"admin_open": "Open trunk",
+	"admin_clean": "Clean trunk",
+	"admin_dump": "Dump trunk",
+	"config_veh_class": "Vehicle class",
 	"config_main_config": "Main configuration",
 	"trunk_noallowed": "You can't add this in your trunk.",
 	"config_max_space": "Maximum trunk space",
 	"store_info": "Press \"R\" to store this item in the trunk",
 	"config_add_veh": "Add vehicle to blacklist:",
 	"ent_amount": "Amount:"
+	"trunk_dumped": "The trunk has been dumped."
+	"trunk_cleaned": "The trunk has been cleaned."
 }
