@@ -11,13 +11,19 @@
 ## FEATURES
 - Functional car trunk
 - Any entities can be carried 
+- Real trunk opening with functional cars (cf. Car bodygroups)
+- Sound when opening and closing trunk
 - Anyone can open the trunk as the vehicle is unlocked
 - Cops can open the trunk when the car's owner has a warrant 
-- Whitelist for entities and blacklist for cars
+- Whitelist and weight for entities
+- Whitelist for cars 
+- Trunk space dedicated to each car
 - In-game configuration menu
+- Moderators menu ( open / clean / dump the trunk )
 - FastDL or [workshop content](https://steamcommunity.com/sharedfiles/filedetails/?id=1447771895)
-- A lot of options are editable
-- Multi language support (currently, English and French are available, -50% discount if you translate it in an untranslated language)
+- Open for developers
+- Online multi language support (currently, English and French are available, -50% discount if you translate it in an untranslated language)
+- Online bodygroups "database" for trunk's bodygroups
 
 ---
 
