@@ -16,7 +16,7 @@
 
 **Moderators menu**
 
-![](https://i.gyazo.com/1bbdc7c7fdbbbfe1ff41f41ac278368f.gif "")
+![](https://i.gyazo.com/1bbdc7c7fdbbbfe1ff41f41ac278368f.gif)
 
 **Trunk animation**
 
