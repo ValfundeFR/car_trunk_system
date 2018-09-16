@@ -12,7 +12,7 @@
 
 **In game configuration menu**
 
-![](https://i.imgur.com/schsOCP.gif "")
+![](https://i.imgur.com/WSX038V.gif)
 
 **Moderators menu**
 
