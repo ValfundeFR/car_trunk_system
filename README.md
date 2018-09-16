@@ -20,7 +20,7 @@
 
 **Trunk animation**
 
-![](https://i.imgur.com/RIEnzxV.gif)
+![](https://i.imgur.com/WSX038V.gif)
 
 
 ---
