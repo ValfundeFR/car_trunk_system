@@ -7,6 +7,22 @@
 > ##### This script is for  ``DarkRP only``
 
 ---
+**Video preview** _(outdated)_
+[![](https://i.imgur.com/WDG5ta3.png)](https://youtu.be/Qjfcn3lCPBE)
+
+**In game configuration menu**
+
+![](https://i.imgur.com/schsOCP.gif "")
+
+**Moderators menu**
+
+![](https://i.gyazo.com/1bbdc7c7fdbbbfe1ff41f41ac278368f.gif "")
+
+**Trunk animation**
+
+![](https://i.imgur.com/RIEnzxV.gif "")
+
+---
 
 ## FEATURES
 - Functional car trunk
