@@ -20,7 +20,7 @@
 
 **Trunk animation**
 
-![](https://i.imgur.com/RIEnzxV.gif "")
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 ---
