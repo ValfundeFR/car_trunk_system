@@ -2,7 +2,7 @@
 
 ---
 
-### AVAILABLE [HERE](https://www.gmodstore.com/scripts/view/5565)
+# BUY THE SCRIPT [HERE](https://discord.gg/vpxXbNw)
 
 ---
 
@@ -23,10 +23,7 @@
 
 ![](https://i.gyazo.com/1bbdc7c7fdbbbfe1ff41f41ac278368f.gif)
 
-**Trunk animation**
-
-![](https://i.imgur.com/RIEnzxV.gif)
-
+**[Trunk animation]**(https://i.imgur.com/RIEnzxV.gif)
 
 ---
 
