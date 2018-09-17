@@ -59,7 +59,7 @@
 ---
 
 ## Support
-- If you have any questions/problems with the script, just create a ticket or add me on steam ( don't forget to write a comment on my profile before adding me )
+- If you have any questions/problems with the script, just add me on steam ( don't forget to write a comment on my profile before adding me )
 
 ---
 
