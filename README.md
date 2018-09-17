@@ -2,7 +2,7 @@
 
 ---
 
-# BUY THE SCRIPT [HERE](https://discord.gg/vpxXbNw)
+# BUY THE SCRIPT [HERE](https://discord.gg/vpxXbNw) OR [HERE](https://steamcommunity.com/id/ValfundeBnnArmy/)
 
 ---
 
