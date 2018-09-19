@@ -2,7 +2,7 @@
 
 ---
 
-# BUY THE SCRIPT [HERE](https://discord.gg/vpxXbNw) OR [HERE](https://steamcommunity.com/id/ValfundeBnnArmy/)
+# BUY THE SCRIPT [HERE](https://www.gmodstore.com/market/view/5565).
 
 ---
 
@@ -55,11 +55,6 @@
 #### Type "`cts_config`" in console to open the menu
 
 > ##### If you need more info about the configuration or the working of the script, you can [check the wiki](https://github.com/ValfundeFR/car_trunk_system/wiki/Installation-&-configuration) or **create a gmodstore ticket**.
-
----
-
-## Support
-- If you have any questions/problems with the script, just add me on steam ( don't forget to write a comment on my profile before adding me )
 
 ---
 
