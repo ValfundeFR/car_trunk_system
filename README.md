@@ -2,7 +2,7 @@
 
 ---
 
-# BUY THE SCRIPT [HERE](https://www.gmodstore.com/market/view/5565).
+# BUY THE SCRIPT [HERE](https://discord.gg/vpxXbNw) OR [HERE](https://steamcommunity.com/id/ValfundeBnnArmy/)
 
 ---
 
@@ -62,6 +62,12 @@
 > Currently, there is not a lot of trunks bodygroup registered, so, if you have any vehicle with trunk bodygroup, send me it through pm or steam ( write a comment before adding me ). You can check the list of registered vehicles [here](https://raw.githubusercontent.com/ValfundeFR/car_trunk_system/master/bodygroups/list.txt).
 
 ---
+
+## Support
+- If you have any questions/problems with the script, just add me on steam ( don't forget to write a comment on my profile before adding me )
+
+ ---
+
 
 Thanks! 
 ![](http://img1.xooimage.com/files//7/e/f/36-229c.gif "")
