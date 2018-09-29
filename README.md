@@ -1,4 +1,3 @@
-![](https://media.gmodstore.com/script_banners/57b4434067207fd1348b99e483a13e03_full.png)
 
 ---
 
@@ -54,7 +53,7 @@
 
 #### Type "`cts_config`" in console to open the menu
 
-> ##### If you need more info about the configuration or the working of the script, you can [check the wiki](https://github.com/ValfundeFR/car_trunk_system/wiki/Installation-&-configuration) or **create a gmodstore ticket**.
+> ##### If you need more info about the configuration or the working of the script, you can [check the wiki](https://github.com/ValfundeFR/car_trunk_system/wiki/Installation-&-configuration) or **contact support**.
 
 ---
 
