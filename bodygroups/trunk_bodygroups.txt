@@ -22,12 +22,12 @@
 	"chev_suburban_pol_und": {
 		"close": 0.0,
 		"id": 7.0,
-		"open": 1.0
+		"open": 2.0
 	},
 	"chev_suburban": {
 		"close": 0.0,
 		"id": 7.0,
-		"open": 1.0
+		"open": 2.0
 	},
 	"uaz_452": {
 		"close": 0.0,
